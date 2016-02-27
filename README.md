@@ -2,6 +2,8 @@
 
 MergeTabsAndApps - Android web browser likes Chrome's "Merge tabs and apps"
 
+[<img src="https://dply.me/wlrg2j/button/large" alt="Try it on your device via DeployGate">](https://dply.me/wlrg2j#install)
+
 ## Motivation
 
 Tablet can't use Chrome's "Merge tabs and apps"!
