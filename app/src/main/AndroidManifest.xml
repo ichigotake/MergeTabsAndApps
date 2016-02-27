@@ -12,7 +12,7 @@
 
         <activity
             android:name=".activity.WebBrowserActivity"
-            android:documentLaunchMode="always"
+            android:documentLaunchMode="intoExisting"
             >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
